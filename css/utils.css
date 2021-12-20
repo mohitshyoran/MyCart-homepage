@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    padding: 0.40vh 0.5vw;
+    color: white;
+    background-color: var(--main-bg-color);
+    border: 0.15vw solid white;
+    border-radius: 1vh;
+    cursor: pointer;
+}
+
+.my-1{
+    margin: 0.5vh 0;
+}
+
+.my-2{
+    margin: 2vh 0;
+}
+
+.text-center{
+    text-align: center;
+}
